@@ -1,1 +1,1 @@
-# Linguistic-Sentence-Classification
+# Singapore Scam Message Analyzer
