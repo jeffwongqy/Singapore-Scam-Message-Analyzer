@@ -291,3 +291,7 @@ Hey Sarah, are we still meeting for lunch at Marina Bay Sands today? Wait, is th
 
 
 ## 6. Demo Working Implementation 
+<img width="1912" height="962" alt="p1" src="https://github.com/user-attachments/assets/3b69b991-a71b-43eb-a0bd-f772aad0de64" />
+
+<img width="1910" height="962" alt="p2" src="https://github.com/user-attachments/assets/bcea9684-e4d8-4022-8d90-36762a1dc35f" />
+
